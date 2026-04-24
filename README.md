@@ -35,7 +35,7 @@ I learn best by building real-world projects instead of just watching tutorials 
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=om-3&theme=tokyo-night" />
 
 
 
