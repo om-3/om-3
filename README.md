@@ -1,5 +1,43 @@
-# 💫 About Me:
-Hi, I'm OM.... 👋  <br>A passionate Java Full Stack Developer exploring DevOps and cloud technologies.<br><br>🔭 I’m currently working on  <br>Building full stack applications using Java, Spring Boot,  with focus on clean backend architecture and REST APIs.  <br><br>👯 I’m looking to collaborate on  <br>Real-world full stack projects or open source contributions related to Java backend and scalable web apps.  <br><br>🤝 I’m looking for help with  <br>Understanding real DevOps workflows like CI/CD pipelines, Docker, and cloud deployment in production.  <br><br>🌱 I’m currently learning  <br>Advanced Spring Boot, React, and improving my skills in Docker and AWS.  <br><br>💬 Ask me about  <br>Java backend development, REST APIs, and my journey of becoming a full stack developer.  <br><br>⚡ Fun fact  <br>I prefer learning by building projects and solving real problems rather than just following tutorials.
+<h1 align="center">Hi 👋, I'm OM</h1>
+<h3 align="center">Java Full Stack Developer | Exploring DevOps & Cloud</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React;Learning+DevOps+%26+Cloud;Building+Real+World+Projects" />
+</p>
+
+<p align="center">
+  I build full stack applications with a focus on clean backend architecture, REST APIs, and real-world problem solving.
+</p>
+
+## 🛠️ Current Focus
+- Building full stack apps using Java, Spring Boot, and React  
+- Designing clean REST APIs and backend systems  
+- Learning DevOps (Docker, CI/CD, AWS)
+
+- ## 🤝 Collaboration
+- Open to real-world full stack projects  
+- Interested in Java backend & scalable systems  
+- Exploring open source contributions
+
+- ## 💡 Ask Me About
+- Java backend development  
+- REST API design  
+- Full stack project building
+
+- ## ⚙️ Fun Fact
+I learn best by building real-world projects instead of just watching tutorials 🚀
+
+## 🧰 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,docker,aws" />
+</p>
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+
+
 
 
 ## 🌐 Socials:
