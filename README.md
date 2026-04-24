@@ -10,6 +10,6 @@ Hi, I'm OM.... 👋  <br>A passionate Java Full Stack Developer exploring DevOps
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=om-3&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
