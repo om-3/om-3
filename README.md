@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm OM...</h1>
+<h1 align="center">Hi 👋, I'm OM..</h1>
 <h3 align="center">Java Full Stack Developer | Exploring DevOps & Cloud</h3>
 
 <p align="center">
