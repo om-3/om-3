@@ -1,51 +1,73 @@
-<h1 align="center">Hi 👋, I'm OM..</h1>
-<h3 align="center">Java Full Stack Developer | Exploring DevOps & Cloud</h3>
+<h1 align="center">Hi 👋, I'm Om</h1>
+<h3 align="center">CS Engineering Undergrad · Java Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React;Learning+DevOps+%26+Cloud;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+REST+APIs;Exploring+DevOps+%26+Cloud+(AWS);Building+Real-World+Projects+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  I build full stack applications with a focus on clean backend architecture, REST APIs, and real-world problem solving.
+  Third-year B.Tech CSE student who learns best by <strong>building</strong>. I focus on clean backend architecture, scalable REST APIs, and shipping real projects that solve real problems.
 </p>
-
-## 🛠️ Current Focus
-- Building full stack apps using Java, Spring Boot, and React  
-- Designing clean REST APIs and backend systems  
-- Learning DevOps (Docker, CI/CD, AWS)
-
-- ## 🤝 Collaboration
-- Open to real-world full stack projects  
-- Interested in Java backend & scalable systems  
-- Exploring open source contributions
-
-- ## 💡 Ask Me About
-- Java backend development  
-- REST API design  
-- Full stack project building
-
-- ## ⚙️ Fun Fact
-I learn best by building real-world projects instead of just watching tutorials 🚀
-
-## 🧰 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,docker,aws" />
-</p>
-
-<!-- ## 📈 Activity Graph -->
-
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=om-3&theme=tokyo-night" />  -->
-
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_om_3.y) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omyerpude2005@gmail.com) 
-
-
 
 ---
 
+## 🔨 Currently Building
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://github.com/om-3/CipherFile">
+    <img src="https://img.shields.io/badge/🔐_CipherFile-Desktop_File_Encryption_App-00C853?style=for-the-badge&labelColor=0d1117" alt="CipherFile" />
+  </a>
+</p>
+
+---
+
+## 🛠️ What I'm Up To
+
+| | |
+|---|---|
+| 💻 **Building** | Full-stack apps with Java, Spring Boot & React |
+| 🌱 **Learning** | Docker · CI/CD Pipelines · AWS |
+| 🤝 **Open to** | Full-stack collaborations · Java backend roles · Open source |
+| 💬 **Ask me about** | Java · REST API design · Database modeling · Full-stack architecture |
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,docker,aws&perline=5" alt="Tech Stack Icons" />
+</p>
+
+---
+
+<!-- ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=om-3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=om-3&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=om-3&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+--- -->
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://instagram.com/_om_3.y">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:omyerpude2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- TODO: Replace YOUR_LINKEDIN_URL_HERE with your actual LinkedIn profile URL -->
+  <a href="YOUR_LINKEDIN_URL_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=om-3&label=Profile+Views&color=00F7FF&style=flat" alt="Profile Views" />
+</p>
