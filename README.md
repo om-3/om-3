@@ -63,10 +63,9 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <!-- TODO: Replace YOUR_LINKEDIN_URL_HERE with your actual LinkedIn profile URL -->
-  <a href="YOUR_LINKEDIN_URL_HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+  <a href="https://www.linkedin.com/in/om-yerpude-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=om-3&label=Profile+Views&color=00F7FF&style=flat" alt="Profile Views" />
